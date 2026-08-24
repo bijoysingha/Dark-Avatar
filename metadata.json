@@ -1,0 +1,6 @@
+{
+  "name": "Dark Avatar",
+  "description": "DIRECT. FAST. CODE. ANALYZE. DEFEND. — Advanced AI Cybersecurity Workstation for defensive analysis, security research, and code auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
